@@ -11,9 +11,8 @@ from .serializers import courseSerializer
 class courseList(APIView):
     
 
-    def get(self, request):
-        #course1 =course.objects.filter(Subject = 'Force', Class='Physics')
-        course1 =course.objects.all()
+    def get(self, request, Chapter,Class,Subject):
+        course1 =course.objects.filter(Chapter = Chapter, Class=Class, Subject=Subject)
         serializer=courseSerializer(course1, many=True)
         return Response(serializer.data)
 
