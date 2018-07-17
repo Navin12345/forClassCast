@@ -15,14 +15,22 @@ Including another URLconf
 """
 from django.conf.urls import include, url
 from django.contrib import admin
+
+from django.conf import settings
+from django.views.static import serve
+
 from rest_framework.urlpatterns import format_suffix_patterns
 from webapp import views
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
-    #url(r'^course/', views.courseList.as_view()),    
+    url(r'^admin/', admin.site.urls),    
     url(r'^course/', include('webapp.urls')),
-    #url(r'^course/(?P<Serial_number>[0-9]+)$', views.courseList.as_view()),
-    #url(r'^course/(?P<Serial_number>[0-9]+)$', views.courseList.as_view()),
     
 ]
+
+if settings.DEBUG:
+    urlpatterns +=[
+        url(r'^media/(?P<path>.*)$',
+            serve, {'document_root':
+                    settings.MEDIA_ROOT}),
+        ]

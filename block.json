@@ -1,0 +1,1161 @@
+{
+    "blocks": {
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@48d9ac709e3e49ba85642efc7b7b9525": {
+            "block_id": "48d9ac709e3e49ba85642efc7b7b9525",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e87bde01d7204828b4332fa668d76b01"
+            ],
+            "display_name": "Transpose of Matrix",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@48d9ac709e3e49ba85642efc7b7b9525",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@48d9ac709e3e49ba85642efc7b7b9525",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@48d9ac709e3e49ba85642efc7b7b9525",
+            "type": "chapter"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@4cb43060cd4e4d76ad55b316722d7126": {
+            "block_id": "4cb43060cd4e4d76ad55b316722d7126",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ebcdd3bef7ea439482a0d49e5799b949",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@933e3bab16ef485ab47bb24a4e3722e6"
+            ],
+            "display_name": "Introduction to Matrices",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@4cb43060cd4e4d76ad55b316722d7126",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@4cb43060cd4e4d76ad55b316722d7126",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@4cb43060cd4e4d76ad55b316722d7126",
+            "type": "chapter"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@506b66840e1f4bb1bd5ff674ba83a35f": {
+            "block_id": "506b66840e1f4bb1bd5ff674ba83a35f",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@745bd197009846d8b0c26b9fb8f04b37",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@4f49c65cacec450ba0a00fb8c74bc74f"
+            ],
+            "display_name": "Types of Matrices",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@506b66840e1f4bb1bd5ff674ba83a35f",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@506b66840e1f4bb1bd5ff674ba83a35f",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@506b66840e1f4bb1bd5ff674ba83a35f",
+            "type": "chapter"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@55b1468ca1bb4fccbe1be8c21e5dd706": {
+            "block_id": "55b1468ca1bb4fccbe1be8c21e5dd706",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@45f0fb28ab994a4e873a6c83121c4e00",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@65074823711f46cf8e374ab523b1b6b4",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@8753c48e2e5e4e68833a8f02fa1741a6"
+            ],
+            "display_name": "Inverse of a Matrix",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@55b1468ca1bb4fccbe1be8c21e5dd706",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@55b1468ca1bb4fccbe1be8c21e5dd706",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@55b1468ca1bb4fccbe1be8c21e5dd706",
+            "type": "chapter"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@62a298055be14dbdba2146a50cdd6166": {
+            "block_id": "62a298055be14dbdba2146a50cdd6166",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@c1b8bcdb446145ed88fd94c5e6474248"
+            ],
+            "display_name": "Symmetric and Skew-Symmetric Matrix",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@62a298055be14dbdba2146a50cdd6166",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@62a298055be14dbdba2146a50cdd6166",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@62a298055be14dbdba2146a50cdd6166",
+            "type": "chapter"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@879401b50da54f0ca32305b5803d411a": {
+            "block_id": "879401b50da54f0ca32305b5803d411a",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@685f47b9c2c94b43b58b560b81526b85",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@6a77d4fb057a4547924406eb1fc23ac4",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fde4a6fbf7634644857818640a11b854",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e18baece65b44ebbb5abf1c7014e4636",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3d7d6585737e4c3593f9286030f07196"
+            ],
+            "display_name": "Operations on Matrices",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@879401b50da54f0ca32305b5803d411a",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@879401b50da54f0ca32305b5803d411a",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@879401b50da54f0ca32305b5803d411a",
+            "type": "chapter"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@9f11aac8ba5a41dea625e59f7a01a420": {
+            "block_id": "9f11aac8ba5a41dea625e59f7a01a420",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ea05f069322446f1bbf72b1317a42327",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@9282a52f764b40458a977fa8eeda3b83",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e264e8dcee484739bd57fd20698b346d",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3bf833ea665348e793f13cdd57545d1c",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@bfd0567b08f34fee99bdbd1f235a66b5",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@1fd62026d7de477996bdff3fbb6b58cd"
+            ],
+            "display_name": "Miscellaneous Exercises",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@9f11aac8ba5a41dea625e59f7a01a420",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@9f11aac8ba5a41dea625e59f7a01a420",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@9f11aac8ba5a41dea625e59f7a01a420",
+            "type": "chapter"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@e84b942a052246518519d7c0f42c52d7": {
+            "block_id": "e84b942a052246518519d7c0f42c52d7",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@395a8d2b56f540818fac0d037ace8453",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc8e7290165b4043a49e6a4171db27b7",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@48a3d0baab784d5ab6037ad5c0b333d4",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc4fd9f46f294c5cbffe041960d318ac"
+            ],
+            "display_name": "Elementary Transformation of Matrix",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@e84b942a052246518519d7c0f42c52d7",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@e84b942a052246518519d7c0f42c52d7",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@e84b942a052246518519d7c0f42c52d7",
+            "type": "chapter"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@course+block@course": {
+            "block_id": "course",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@4cb43060cd4e4d76ad55b316722d7126",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@506b66840e1f4bb1bd5ff674ba83a35f",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@879401b50da54f0ca32305b5803d411a",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@48d9ac709e3e49ba85642efc7b7b9525",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@62a298055be14dbdba2146a50cdd6166",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@e84b942a052246518519d7c0f42c52d7",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@55b1468ca1bb4fccbe1be8c21e5dd706",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@chapter+block@9f11aac8ba5a41dea625e59f7a01a420"
+            ],
+            "display_name": "Matrices",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@course+block@course",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@course+block@course",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@course+block@course",
+            "type": "course"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@055b8c17b91e473da17eeea25eb53870": {
+            "block_id": "055b8c17b91e473da17eeea25eb53870",
+            "display_name": "Multiple Choice",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@055b8c17b91e473da17eeea25eb53870",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@055b8c17b91e473da17eeea25eb53870",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@055b8c17b91e473da17eeea25eb53870",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@0ed5eec24ed847559f007031658ce293": {
+            "block_id": "0ed5eec24ed847559f007031658ce293",
+            "display_name": "Multiple Choice",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@0ed5eec24ed847559f007031658ce293",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@0ed5eec24ed847559f007031658ce293",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@0ed5eec24ed847559f007031658ce293",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@2384438df4584fdf9b878d6d557a312a": {
+            "block_id": "2384438df4584fdf9b878d6d557a312a",
+            "display_name": "Multiple Choice",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@2384438df4584fdf9b878d6d557a312a",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@2384438df4584fdf9b878d6d557a312a",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@2384438df4584fdf9b878d6d557a312a",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@29d2b7caa2114c3c978e4223df07952a": {
+            "block_id": "29d2b7caa2114c3c978e4223df07952a",
+            "display_name": "Multiple Choice",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@29d2b7caa2114c3c978e4223df07952a",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@29d2b7caa2114c3c978e4223df07952a",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@29d2b7caa2114c3c978e4223df07952a",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@472f360d997a4e9889b99837199d2655": {
+            "block_id": "472f360d997a4e9889b99837199d2655",
+            "display_name": "Multiple Choice",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@472f360d997a4e9889b99837199d2655",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@472f360d997a4e9889b99837199d2655",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@472f360d997a4e9889b99837199d2655",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@47a670c4ef3c45be9cb7430e190aadba": {
+            "block_id": "47a670c4ef3c45be9cb7430e190aadba",
+            "display_name": "Multiple Choice",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@47a670c4ef3c45be9cb7430e190aadba",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@47a670c4ef3c45be9cb7430e190aadba",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@47a670c4ef3c45be9cb7430e190aadba",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9a91b2cce43f4853bcb9b17ac431708c": {
+            "block_id": "9a91b2cce43f4853bcb9b17ac431708c",
+            "display_name": "Multiple Choice",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9a91b2cce43f4853bcb9b17ac431708c",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9a91b2cce43f4853bcb9b17ac431708c",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9a91b2cce43f4853bcb9b17ac431708c",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9b5a73f6f8c44c7fa03fddba6046d028": {
+            "block_id": "9b5a73f6f8c44c7fa03fddba6046d028",
+            "display_name": "Multiple Choice",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9b5a73f6f8c44c7fa03fddba6046d028",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9b5a73f6f8c44c7fa03fddba6046d028",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9b5a73f6f8c44c7fa03fddba6046d028",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a059b1f3d71e4f61b164fcbcef441f6f": {
+            "block_id": "a059b1f3d71e4f61b164fcbcef441f6f",
+            "display_name": "Multiple Choice",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a059b1f3d71e4f61b164fcbcef441f6f",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a059b1f3d71e4f61b164fcbcef441f6f",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a059b1f3d71e4f61b164fcbcef441f6f",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a062e4f0bcde4dbd957843ee72f36ad1": {
+            "block_id": "a062e4f0bcde4dbd957843ee72f36ad1",
+            "display_name": "Multiple Choice",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a062e4f0bcde4dbd957843ee72f36ad1",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a062e4f0bcde4dbd957843ee72f36ad1",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a062e4f0bcde4dbd957843ee72f36ad1",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a095d40d961b4aef86577585ed87fe07": {
+            "block_id": "a095d40d961b4aef86577585ed87fe07",
+            "display_name": "Multiple Choice",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a095d40d961b4aef86577585ed87fe07",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a095d40d961b4aef86577585ed87fe07",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a095d40d961b4aef86577585ed87fe07",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@addabdcfe08a4c74af931f0184e26bdc": {
+            "block_id": "addabdcfe08a4c74af931f0184e26bdc",
+            "display_name": "Multiple Choice",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@addabdcfe08a4c74af931f0184e26bdc",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@addabdcfe08a4c74af931f0184e26bdc",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@addabdcfe08a4c74af931f0184e26bdc",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@ba93537ee41440ea8f426fda820089fe": {
+            "block_id": "ba93537ee41440ea8f426fda820089fe",
+            "display_name": "Multiple Choice",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@ba93537ee41440ea8f426fda820089fe",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@ba93537ee41440ea8f426fda820089fe",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@ba93537ee41440ea8f426fda820089fe",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@cb163ef4be334c7891ddbc7ea0a0607b": {
+            "block_id": "cb163ef4be334c7891ddbc7ea0a0607b",
+            "display_name": "Multiple Choice",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@cb163ef4be334c7891ddbc7ea0a0607b",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@cb163ef4be334c7891ddbc7ea0a0607b",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@cb163ef4be334c7891ddbc7ea0a0607b",
+            "type": "problem"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@1fd62026d7de477996bdff3fbb6b58cd": {
+            "block_id": "1fd62026d7de477996bdff3fbb6b58cd",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@b2ac28f748b44453ab1f28c443099ad9"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part VI",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@1fd62026d7de477996bdff3fbb6b58cd",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@1fd62026d7de477996bdff3fbb6b58cd",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@1fd62026d7de477996bdff3fbb6b58cd",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@395a8d2b56f540818fac0d037ace8453": {
+            "block_id": "395a8d2b56f540818fac0d037ace8453",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ed052358a1224043829943ac34abaa77"
+            ],
+            "display_name": "Elementary transformation : Part I",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@395a8d2b56f540818fac0d037ace8453",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@395a8d2b56f540818fac0d037ace8453",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@395a8d2b56f540818fac0d037ace8453",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3bf833ea665348e793f13cdd57545d1c": {
+            "block_id": "3bf833ea665348e793f13cdd57545d1c",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a89205a912f4477a81c06fe4bca50e8c"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part IV",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3bf833ea665348e793f13cdd57545d1c",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3bf833ea665348e793f13cdd57545d1c",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3bf833ea665348e793f13cdd57545d1c",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3d7d6585737e4c3593f9286030f07196": {
+            "block_id": "3d7d6585737e4c3593f9286030f07196",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@d8cacceaeb6448fa86c3557a4b70c40a"
+            ],
+            "display_name": "Important Questions - NCERT Part II",
+            "format": "Homework",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3d7d6585737e4c3593f9286030f07196",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3d7d6585737e4c3593f9286030f07196",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@3d7d6585737e4c3593f9286030f07196",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@45f0fb28ab994a4e873a6c83121c4e00": {
+            "block_id": "45f0fb28ab994a4e873a6c83121c4e00",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@c8b967f915f04391b65c828324f78a69"
+            ],
+            "display_name": "Important Questions : Part I",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@45f0fb28ab994a4e873a6c83121c4e00",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@45f0fb28ab994a4e873a6c83121c4e00",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@45f0fb28ab994a4e873a6c83121c4e00",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@48a3d0baab784d5ab6037ad5c0b333d4": {
+            "block_id": "48a3d0baab784d5ab6037ad5c0b333d4",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@390cefb51f8348ee8730c7bcaa137041",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@8c5d0d94286446fc88fbbcf14c4ae887"
+            ],
+            "display_name": "Inverse of a Matrix",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@48a3d0baab784d5ab6037ad5c0b333d4",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@48a3d0baab784d5ab6037ad5c0b333d4",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@48a3d0baab784d5ab6037ad5c0b333d4",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@4f49c65cacec450ba0a00fb8c74bc74f": {
+            "block_id": "4f49c65cacec450ba0a00fb8c74bc74f",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@277dbd0fa0c049fc84d0b20ada9505b9"
+            ],
+            "display_name": "Types of Matrices Part 2",
+            "format": "Homework",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@4f49c65cacec450ba0a00fb8c74bc74f",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@4f49c65cacec450ba0a00fb8c74bc74f",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@4f49c65cacec450ba0a00fb8c74bc74f",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@65074823711f46cf8e374ab523b1b6b4": {
+            "block_id": "65074823711f46cf8e374ab523b1b6b4",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5370685a2a0141cda2c7537bf622106b"
+            ],
+            "display_name": "Important Questions : Part II",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@65074823711f46cf8e374ab523b1b6b4",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@65074823711f46cf8e374ab523b1b6b4",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@65074823711f46cf8e374ab523b1b6b4",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@685f47b9c2c94b43b58b560b81526b85": {
+            "block_id": "685f47b9c2c94b43b58b560b81526b85",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ad27145c93ce4af39e3795c7b4dff2c6",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0350ccbb7ff84422b183770f649a87c7"
+            ],
+            "display_name": "Addition, Subtraction and Scalar Product of Matrices",
+            "format": "Homework",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@685f47b9c2c94b43b58b560b81526b85",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@685f47b9c2c94b43b58b560b81526b85",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@685f47b9c2c94b43b58b560b81526b85",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@6a77d4fb057a4547924406eb1fc23ac4": {
+            "block_id": "6a77d4fb057a4547924406eb1fc23ac4",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@e349b3d0003e482b8fd04122aa216d3d"
+            ],
+            "display_name": "Problems based on Addition,Subtraction and Scalar product",
+            "format": "Homework",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@6a77d4fb057a4547924406eb1fc23ac4",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@6a77d4fb057a4547924406eb1fc23ac4",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@6a77d4fb057a4547924406eb1fc23ac4",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@745bd197009846d8b0c26b9fb8f04b37": {
+            "block_id": "745bd197009846d8b0c26b9fb8f04b37",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@f48e90245cba4c35959fdadb6199386c",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@78b19ca8247745a38f4bf74829820ffd"
+            ],
+            "display_name": "Types of Matrices Part 1",
+            "format": "Homework",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@745bd197009846d8b0c26b9fb8f04b37",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@745bd197009846d8b0c26b9fb8f04b37",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@745bd197009846d8b0c26b9fb8f04b37",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@8753c48e2e5e4e68833a8f02fa1741a6": {
+            "block_id": "8753c48e2e5e4e68833a8f02fa1741a6",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@782525626ce349e49a1b34400e5f6efd"
+            ],
+            "display_name": "Important Question : Part III",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@8753c48e2e5e4e68833a8f02fa1741a6",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@8753c48e2e5e4e68833a8f02fa1741a6",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@8753c48e2e5e4e68833a8f02fa1741a6",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@9282a52f764b40458a977fa8eeda3b83": {
+            "block_id": "9282a52f764b40458a977fa8eeda3b83",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5d81084e47aa4eba9917b58739958d24"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part II",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@9282a52f764b40458a977fa8eeda3b83",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@9282a52f764b40458a977fa8eeda3b83",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@9282a52f764b40458a977fa8eeda3b83",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@933e3bab16ef485ab47bb24a4e3722e6": {
+            "block_id": "933e3bab16ef485ab47bb24a4e3722e6",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9155ed4d78a74a4c91cfa1a24189b943"
+            ],
+            "display_name": "Introduction to Matrices Part 2",
+            "format": "Homework",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@933e3bab16ef485ab47bb24a4e3722e6",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@933e3bab16ef485ab47bb24a4e3722e6",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@933e3bab16ef485ab47bb24a4e3722e6",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@bfd0567b08f34fee99bdbd1f235a66b5": {
+            "block_id": "bfd0567b08f34fee99bdbd1f235a66b5",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9c8fe17a7b594548be7ce99be3d17dfa"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part V",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@bfd0567b08f34fee99bdbd1f235a66b5",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@bfd0567b08f34fee99bdbd1f235a66b5",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@bfd0567b08f34fee99bdbd1f235a66b5",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@c1b8bcdb446145ed88fd94c5e6474248": {
+            "block_id": "c1b8bcdb446145ed88fd94c5e6474248",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@6478b02b21b445cb924379746e13aed2",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a31f39fffa99489baf872341ce1baa7b"
+            ],
+            "display_name": "Symmetric and Skew-Symmetric Matrices",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@c1b8bcdb446145ed88fd94c5e6474248",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@c1b8bcdb446145ed88fd94c5e6474248",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@c1b8bcdb446145ed88fd94c5e6474248",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e18baece65b44ebbb5abf1c7014e4636": {
+            "block_id": "e18baece65b44ebbb5abf1c7014e4636",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a701f899a8b84960a2b795a4b253ff11"
+            ],
+            "display_name": "Important Questions : Operations on Matrices",
+            "format": "Homework",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e18baece65b44ebbb5abf1c7014e4636",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e18baece65b44ebbb5abf1c7014e4636",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e18baece65b44ebbb5abf1c7014e4636",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e264e8dcee484739bd57fd20698b346d": {
+            "block_id": "e264e8dcee484739bd57fd20698b346d",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@88945500285140029debbcb435cac7ea"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part III",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e264e8dcee484739bd57fd20698b346d",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e264e8dcee484739bd57fd20698b346d",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e264e8dcee484739bd57fd20698b346d",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e87bde01d7204828b4332fa668d76b01": {
+            "block_id": "e87bde01d7204828b4332fa668d76b01",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@15eeb1e35d57498aa41122b09502729f",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0ca05b66b0854c9eb4ba47858f6955c1"
+            ],
+            "display_name": "Transpose of Matrices",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e87bde01d7204828b4332fa668d76b01",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e87bde01d7204828b4332fa668d76b01",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@e87bde01d7204828b4332fa668d76b01",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ea05f069322446f1bbf72b1317a42327": {
+            "block_id": "ea05f069322446f1bbf72b1317a42327",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@3ce98904a3a24489aa0c98c0c6259530"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part I",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ea05f069322446f1bbf72b1317a42327",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ea05f069322446f1bbf72b1317a42327",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ea05f069322446f1bbf72b1317a42327",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ebcdd3bef7ea439482a0d49e5799b949": {
+            "block_id": "ebcdd3bef7ea439482a0d49e5799b949",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@70fba1331fc94486bda3ec7e0be7607e",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@611ae16e5fb54121b82d6f8236621c1a"
+            ],
+            "display_name": "Introduction to Matrices Part 1",
+            "format": "Homework",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ebcdd3bef7ea439482a0d49e5799b949",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ebcdd3bef7ea439482a0d49e5799b949",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@ebcdd3bef7ea439482a0d49e5799b949",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc4fd9f46f294c5cbffe041960d318ac": {
+            "block_id": "fc4fd9f46f294c5cbffe041960d318ac",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@1b2d387c14da452c88f780d69e81d5a0"
+            ],
+            "display_name": "Inverse of Matrix Part II",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc4fd9f46f294c5cbffe041960d318ac",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc4fd9f46f294c5cbffe041960d318ac",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc4fd9f46f294c5cbffe041960d318ac",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc8e7290165b4043a49e6a4171db27b7": {
+            "block_id": "fc8e7290165b4043a49e6a4171db27b7",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@45eed5e67b974e5c9ab46a3ef0f3c07d"
+            ],
+            "display_name": "Elementary Transformation : Part II",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc8e7290165b4043a49e6a4171db27b7",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc8e7290165b4043a49e6a4171db27b7",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fc8e7290165b4043a49e6a4171db27b7",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fde4a6fbf7634644857818640a11b854": {
+            "block_id": "fde4a6fbf7634644857818640a11b854",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@10b0d68a3a4c465aafa0c6cc387344d5",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@56c56d9b8ec446f3af6a7abf592dd0a9"
+            ],
+            "display_name": "Multiplication of Matrices",
+            "format": "Homework",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fde4a6fbf7634644857818640a11b854",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fde4a6fbf7634644857818640a11b854",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@sequential+block@fde4a6fbf7634644857818640a11b854",
+            "type": "sequential"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0350ccbb7ff84422b183770f649a87c7": {
+            "block_id": "0350ccbb7ff84422b183770f649a87c7",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a095d40d961b4aef86577585ed87fe07"
+            ],
+            "display_name": "Test Yourself",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0350ccbb7ff84422b183770f649a87c7",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0350ccbb7ff84422b183770f649a87c7",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0350ccbb7ff84422b183770f649a87c7",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0ca05b66b0854c9eb4ba47858f6955c1": {
+            "block_id": "0ca05b66b0854c9eb4ba47858f6955c1",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@2384438df4584fdf9b878d6d557a312a",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a062e4f0bcde4dbd957843ee72f36ad1",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@472f360d997a4e9889b99837199d2655",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@ba93537ee41440ea8f426fda820089fe"
+            ],
+            "display_name": "Test Yourself",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0ca05b66b0854c9eb4ba47858f6955c1",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0ca05b66b0854c9eb4ba47858f6955c1",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@0ca05b66b0854c9eb4ba47858f6955c1",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@10b0d68a3a4c465aafa0c6cc387344d5": {
+            "block_id": "10b0d68a3a4c465aafa0c6cc387344d5",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@fef54b8bc6574162b190a522da8574e1"
+            ],
+            "display_name": "Theory : Multiplication of Matrices",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@10b0d68a3a4c465aafa0c6cc387344d5",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@10b0d68a3a4c465aafa0c6cc387344d5",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@10b0d68a3a4c465aafa0c6cc387344d5",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@15eeb1e35d57498aa41122b09502729f": {
+            "block_id": "15eeb1e35d57498aa41122b09502729f",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35b1a794a31f422a85e1074f64845a73"
+            ],
+            "display_name": "Transpose of Matrices",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@15eeb1e35d57498aa41122b09502729f",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@15eeb1e35d57498aa41122b09502729f",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@15eeb1e35d57498aa41122b09502729f",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@1b2d387c14da452c88f780d69e81d5a0": {
+            "block_id": "1b2d387c14da452c88f780d69e81d5a0",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35ef4cdce32749b699271d275151b4ea"
+            ],
+            "display_name": "Inverse using Elementary Transformation : Part II",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@1b2d387c14da452c88f780d69e81d5a0",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@1b2d387c14da452c88f780d69e81d5a0",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@1b2d387c14da452c88f780d69e81d5a0",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@277dbd0fa0c049fc84d0b20ada9505b9": {
+            "block_id": "277dbd0fa0c049fc84d0b20ada9505b9",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e619679a548467e975a439693f21b8f"
+            ],
+            "display_name": "Types of Matrices : Part II",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@277dbd0fa0c049fc84d0b20ada9505b9",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@277dbd0fa0c049fc84d0b20ada9505b9",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@277dbd0fa0c049fc84d0b20ada9505b9",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@390cefb51f8348ee8730c7bcaa137041": {
+            "block_id": "390cefb51f8348ee8730c7bcaa137041",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@f8877271cdaf43b79bc9b51e2107f18d"
+            ],
+            "display_name": "Inverse using Elementary Transformation : Part I",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@390cefb51f8348ee8730c7bcaa137041",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@390cefb51f8348ee8730c7bcaa137041",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@390cefb51f8348ee8730c7bcaa137041",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@3ce98904a3a24489aa0c98c0c6259530": {
+            "block_id": "3ce98904a3a24489aa0c98c0c6259530",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@39b9f83bc42f487d9ad5118a6dc1aa9b"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part I",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@3ce98904a3a24489aa0c98c0c6259530",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@3ce98904a3a24489aa0c98c0c6259530",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@3ce98904a3a24489aa0c98c0c6259530",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@45eed5e67b974e5c9ab46a3ef0f3c07d": {
+            "block_id": "45eed5e67b974e5c9ab46a3ef0f3c07d",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@1eb86cb97fc64659a211c48e1a5eca15"
+            ],
+            "display_name": "Elementary Transformation : Part II",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@45eed5e67b974e5c9ab46a3ef0f3c07d",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@45eed5e67b974e5c9ab46a3ef0f3c07d",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@45eed5e67b974e5c9ab46a3ef0f3c07d",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5370685a2a0141cda2c7537bf622106b": {
+            "block_id": "5370685a2a0141cda2c7537bf622106b",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@2d3a3fb05d1749788ef19b40dbe427b9"
+            ],
+            "display_name": "Important Questions : Part II",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5370685a2a0141cda2c7537bf622106b",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5370685a2a0141cda2c7537bf622106b",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5370685a2a0141cda2c7537bf622106b",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@56c56d9b8ec446f3af6a7abf592dd0a9": {
+            "block_id": "56c56d9b8ec446f3af6a7abf592dd0a9",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@a059b1f3d71e4f61b164fcbcef441f6f",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@055b8c17b91e473da17eeea25eb53870",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9b5a73f6f8c44c7fa03fddba6046d028"
+            ],
+            "display_name": "Test Yourself",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@56c56d9b8ec446f3af6a7abf592dd0a9",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@56c56d9b8ec446f3af6a7abf592dd0a9",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@56c56d9b8ec446f3af6a7abf592dd0a9",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5d81084e47aa4eba9917b58739958d24": {
+            "block_id": "5d81084e47aa4eba9917b58739958d24",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b0e913218e0f46feb0e882c7a6da85d9"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part II",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5d81084e47aa4eba9917b58739958d24",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5d81084e47aa4eba9917b58739958d24",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@5d81084e47aa4eba9917b58739958d24",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@611ae16e5fb54121b82d6f8236621c1a": {
+            "block_id": "611ae16e5fb54121b82d6f8236621c1a",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@29d2b7caa2114c3c978e4223df07952a",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@addabdcfe08a4c74af931f0184e26bdc"
+            ],
+            "display_name": "Test yourself",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@611ae16e5fb54121b82d6f8236621c1a",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@611ae16e5fb54121b82d6f8236621c1a",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@611ae16e5fb54121b82d6f8236621c1a",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@6478b02b21b445cb924379746e13aed2": {
+            "block_id": "6478b02b21b445cb924379746e13aed2",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9ab63e1c13bf48feb879c3d3c4f9060e"
+            ],
+            "display_name": "Symmetric and Skew-Symmetric Matrices",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@6478b02b21b445cb924379746e13aed2",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@6478b02b21b445cb924379746e13aed2",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@6478b02b21b445cb924379746e13aed2",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@70fba1331fc94486bda3ec7e0be7607e": {
+            "block_id": "70fba1331fc94486bda3ec7e0be7607e",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9702520e07884364b5c54c718074603b"
+            ],
+            "display_name": "Getting started with Matrices",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@70fba1331fc94486bda3ec7e0be7607e",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@70fba1331fc94486bda3ec7e0be7607e",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@70fba1331fc94486bda3ec7e0be7607e",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@782525626ce349e49a1b34400e5f6efd": {
+            "block_id": "782525626ce349e49a1b34400e5f6efd",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e60b7f9de024249a94b7cb6ccf5a5e9"
+            ],
+            "display_name": "Important Questions : Part III",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@782525626ce349e49a1b34400e5f6efd",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@782525626ce349e49a1b34400e5f6efd",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@782525626ce349e49a1b34400e5f6efd",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@78b19ca8247745a38f4bf74829820ffd": {
+            "block_id": "78b19ca8247745a38f4bf74829820ffd",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@47a670c4ef3c45be9cb7430e190aadba"
+            ],
+            "display_name": "Test Yourself",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@78b19ca8247745a38f4bf74829820ffd",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@78b19ca8247745a38f4bf74829820ffd",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@78b19ca8247745a38f4bf74829820ffd",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@88945500285140029debbcb435cac7ea": {
+            "block_id": "88945500285140029debbcb435cac7ea",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@c8c455eaffaf47cfb75b7b02db184b68"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part III",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@88945500285140029debbcb435cac7ea",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@88945500285140029debbcb435cac7ea",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@88945500285140029debbcb435cac7ea",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@8c5d0d94286446fc88fbbcf14c4ae887": {
+            "block_id": "8c5d0d94286446fc88fbbcf14c4ae887",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@cb163ef4be334c7891ddbc7ea0a0607b",
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@9a91b2cce43f4853bcb9b17ac431708c"
+            ],
+            "display_name": "Test Yourself",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@8c5d0d94286446fc88fbbcf14c4ae887",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@8c5d0d94286446fc88fbbcf14c4ae887",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@8c5d0d94286446fc88fbbcf14c4ae887",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9155ed4d78a74a4c91cfa1a24189b943": {
+            "block_id": "9155ed4d78a74a4c91cfa1a24189b943",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@edebb02c43a74389af338f1e67e4ade4"
+            ],
+            "display_name": "Preliminary problems in Matrices",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9155ed4d78a74a4c91cfa1a24189b943",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9155ed4d78a74a4c91cfa1a24189b943",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9155ed4d78a74a4c91cfa1a24189b943",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9c8fe17a7b594548be7ce99be3d17dfa": {
+            "block_id": "9c8fe17a7b594548be7ce99be3d17dfa",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@162f270ea6f640a29b7c1196407f0eb2"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part V",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9c8fe17a7b594548be7ce99be3d17dfa",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9c8fe17a7b594548be7ce99be3d17dfa",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@9c8fe17a7b594548be7ce99be3d17dfa",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a31f39fffa99489baf872341ce1baa7b": {
+            "block_id": "a31f39fffa99489baf872341ce1baa7b",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@problem+block@0ed5eec24ed847559f007031658ce293"
+            ],
+            "display_name": "Test Yourself",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a31f39fffa99489baf872341ce1baa7b",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a31f39fffa99489baf872341ce1baa7b",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a31f39fffa99489baf872341ce1baa7b",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a701f899a8b84960a2b795a4b253ff11": {
+            "block_id": "a701f899a8b84960a2b795a4b253ff11",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a2f17c13466e4600b78164a5a3d86c5c"
+            ],
+            "display_name": "Important Questions : Part I",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a701f899a8b84960a2b795a4b253ff11",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a701f899a8b84960a2b795a4b253ff11",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a701f899a8b84960a2b795a4b253ff11",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a89205a912f4477a81c06fe4bca50e8c": {
+            "block_id": "a89205a912f4477a81c06fe4bca50e8c",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@0e44725e3c5d416cb7583c3f02513f1e"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part IV",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a89205a912f4477a81c06fe4bca50e8c",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a89205a912f4477a81c06fe4bca50e8c",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@a89205a912f4477a81c06fe4bca50e8c",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ad27145c93ce4af39e3795c7b4dff2c6": {
+            "block_id": "ad27145c93ce4af39e3795c7b4dff2c6",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4356983be9e14336a17942c77f230ec4"
+            ],
+            "display_name": "Addition,Subtraction and Scalar Product",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ad27145c93ce4af39e3795c7b4dff2c6",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ad27145c93ce4af39e3795c7b4dff2c6",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ad27145c93ce4af39e3795c7b4dff2c6",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@b2ac28f748b44453ab1f28c443099ad9": {
+            "block_id": "b2ac28f748b44453ab1f28c443099ad9",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b242c047815746518acbf0752f3d28cf"
+            ],
+            "display_name": "NCERT Miscellaneous Exercises : Part VI",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@b2ac28f748b44453ab1f28c443099ad9",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@b2ac28f748b44453ab1f28c443099ad9",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@b2ac28f748b44453ab1f28c443099ad9",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@c8b967f915f04391b65c828324f78a69": {
+            "block_id": "c8b967f915f04391b65c828324f78a69",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4c6d570253434813b4dd64f9ac9d4f37"
+            ],
+            "display_name": "Important Questions : Part I",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@c8b967f915f04391b65c828324f78a69",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@c8b967f915f04391b65c828324f78a69",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@c8b967f915f04391b65c828324f78a69",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@d8cacceaeb6448fa86c3557a4b70c40a": {
+            "block_id": "d8cacceaeb6448fa86c3557a4b70c40a",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a6b83e5730df464dbf5d696ecfdd1eb3"
+            ],
+            "display_name": "Important Questions : Part II",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@d8cacceaeb6448fa86c3557a4b70c40a",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@d8cacceaeb6448fa86c3557a4b70c40a",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@d8cacceaeb6448fa86c3557a4b70c40a",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@e349b3d0003e482b8fd04122aa216d3d": {
+            "block_id": "e349b3d0003e482b8fd04122aa216d3d",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@81c230ed7c99455fb1d8ed2a1051013f"
+            ],
+            "display_name": "Problems: Addition,Subtraction & Scalar Product",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@e349b3d0003e482b8fd04122aa216d3d",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@e349b3d0003e482b8fd04122aa216d3d",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@e349b3d0003e482b8fd04122aa216d3d",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ed052358a1224043829943ac34abaa77": {
+            "block_id": "ed052358a1224043829943ac34abaa77",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a0f1a17ac0cd4f37a105b0c222b22487"
+            ],
+            "display_name": "Elementary Transformation: Part I",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ed052358a1224043829943ac34abaa77",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ed052358a1224043829943ac34abaa77",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@ed052358a1224043829943ac34abaa77",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@f48e90245cba4c35959fdadb6199386c": {
+            "block_id": "f48e90245cba4c35959fdadb6199386c",
+            "descendants": [
+                "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@23cc3756eb0147f798e421f21948daf7"
+            ],
+            "display_name": "Types of Matrices : Part I",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@f48e90245cba4c35959fdadb6199386c",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@f48e90245cba4c35959fdadb6199386c",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@vertical+block@f48e90245cba4c35959fdadb6199386c",
+            "type": "vertical"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@0e44725e3c5d416cb7583c3f02513f1e": {
+            "block_id": "0e44725e3c5d416cb7583c3f02513f1e",
+            "display_name": "04:42",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@0e44725e3c5d416cb7583c3f02513f1e",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@0e44725e3c5d416cb7583c3f02513f1e",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@0e44725e3c5d416cb7583c3f02513f1e",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@162f270ea6f640a29b7c1196407f0eb2": {
+            "block_id": "162f270ea6f640a29b7c1196407f0eb2",
+            "display_name": "05:58",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@162f270ea6f640a29b7c1196407f0eb2",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@162f270ea6f640a29b7c1196407f0eb2",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@162f270ea6f640a29b7c1196407f0eb2",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@1eb86cb97fc64659a211c48e1a5eca15": {
+            "block_id": "1eb86cb97fc64659a211c48e1a5eca15",
+            "display_name": "Video",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@1eb86cb97fc64659a211c48e1a5eca15",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@1eb86cb97fc64659a211c48e1a5eca15",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@1eb86cb97fc64659a211c48e1a5eca15",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@23cc3756eb0147f798e421f21948daf7": {
+            "block_id": "23cc3756eb0147f798e421f21948daf7",
+            "display_name": "06:13",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@23cc3756eb0147f798e421f21948daf7",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@23cc3756eb0147f798e421f21948daf7",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@23cc3756eb0147f798e421f21948daf7",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@2d3a3fb05d1749788ef19b40dbe427b9": {
+            "block_id": "2d3a3fb05d1749788ef19b40dbe427b9",
+            "display_name": "03:59",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@2d3a3fb05d1749788ef19b40dbe427b9",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@2d3a3fb05d1749788ef19b40dbe427b9",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@2d3a3fb05d1749788ef19b40dbe427b9",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35b1a794a31f422a85e1074f64845a73": {
+            "block_id": "35b1a794a31f422a85e1074f64845a73",
+            "display_name": "06:46",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35b1a794a31f422a85e1074f64845a73",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35b1a794a31f422a85e1074f64845a73",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35b1a794a31f422a85e1074f64845a73",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35ef4cdce32749b699271d275151b4ea": {
+            "block_id": "35ef4cdce32749b699271d275151b4ea",
+            "display_name": "Video",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35ef4cdce32749b699271d275151b4ea",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35ef4cdce32749b699271d275151b4ea",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@35ef4cdce32749b699271d275151b4ea",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@39b9f83bc42f487d9ad5118a6dc1aa9b": {
+            "block_id": "39b9f83bc42f487d9ad5118a6dc1aa9b",
+            "display_name": "07:41",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@39b9f83bc42f487d9ad5118a6dc1aa9b",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@39b9f83bc42f487d9ad5118a6dc1aa9b",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@39b9f83bc42f487d9ad5118a6dc1aa9b",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4356983be9e14336a17942c77f230ec4": {
+            "block_id": "4356983be9e14336a17942c77f230ec4",
+            "display_name": "04:14",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4356983be9e14336a17942c77f230ec4",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4356983be9e14336a17942c77f230ec4",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4356983be9e14336a17942c77f230ec4",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4c6d570253434813b4dd64f9ac9d4f37": {
+            "block_id": "4c6d570253434813b4dd64f9ac9d4f37",
+            "display_name": "11:59",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4c6d570253434813b4dd64f9ac9d4f37",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4c6d570253434813b4dd64f9ac9d4f37",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@4c6d570253434813b4dd64f9ac9d4f37",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e60b7f9de024249a94b7cb6ccf5a5e9": {
+            "block_id": "5e60b7f9de024249a94b7cb6ccf5a5e9",
+            "display_name": "14:37",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e60b7f9de024249a94b7cb6ccf5a5e9",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e60b7f9de024249a94b7cb6ccf5a5e9",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e60b7f9de024249a94b7cb6ccf5a5e9",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e619679a548467e975a439693f21b8f": {
+            "block_id": "5e619679a548467e975a439693f21b8f",
+            "display_name": "07:47",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e619679a548467e975a439693f21b8f",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e619679a548467e975a439693f21b8f",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@5e619679a548467e975a439693f21b8f",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@81c230ed7c99455fb1d8ed2a1051013f": {
+            "block_id": "81c230ed7c99455fb1d8ed2a1051013f",
+            "display_name": "Video",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@81c230ed7c99455fb1d8ed2a1051013f",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@81c230ed7c99455fb1d8ed2a1051013f",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@81c230ed7c99455fb1d8ed2a1051013f",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9702520e07884364b5c54c718074603b": {
+            "block_id": "9702520e07884364b5c54c718074603b",
+            "display_name": "07:58",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9702520e07884364b5c54c718074603b",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9702520e07884364b5c54c718074603b",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9702520e07884364b5c54c718074603b",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9ab63e1c13bf48feb879c3d3c4f9060e": {
+            "block_id": "9ab63e1c13bf48feb879c3d3c4f9060e",
+            "display_name": "08:11",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9ab63e1c13bf48feb879c3d3c4f9060e",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9ab63e1c13bf48feb879c3d3c4f9060e",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@9ab63e1c13bf48feb879c3d3c4f9060e",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a0f1a17ac0cd4f37a105b0c222b22487": {
+            "block_id": "a0f1a17ac0cd4f37a105b0c222b22487",
+            "display_name": "05:38",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a0f1a17ac0cd4f37a105b0c222b22487",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a0f1a17ac0cd4f37a105b0c222b22487",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a0f1a17ac0cd4f37a105b0c222b22487",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a2f17c13466e4600b78164a5a3d86c5c": {
+            "block_id": "a2f17c13466e4600b78164a5a3d86c5c",
+            "display_name": "Video",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a2f17c13466e4600b78164a5a3d86c5c",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a2f17c13466e4600b78164a5a3d86c5c",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a2f17c13466e4600b78164a5a3d86c5c",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a6b83e5730df464dbf5d696ecfdd1eb3": {
+            "block_id": "a6b83e5730df464dbf5d696ecfdd1eb3",
+            "display_name": "Video",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a6b83e5730df464dbf5d696ecfdd1eb3",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a6b83e5730df464dbf5d696ecfdd1eb3",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@a6b83e5730df464dbf5d696ecfdd1eb3",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b0e913218e0f46feb0e882c7a6da85d9": {
+            "block_id": "b0e913218e0f46feb0e882c7a6da85d9",
+            "display_name": "09:29",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b0e913218e0f46feb0e882c7a6da85d9",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b0e913218e0f46feb0e882c7a6da85d9",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b0e913218e0f46feb0e882c7a6da85d9",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b242c047815746518acbf0752f3d28cf": {
+            "block_id": "b242c047815746518acbf0752f3d28cf",
+            "display_name": "08:40",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b242c047815746518acbf0752f3d28cf",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b242c047815746518acbf0752f3d28cf",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@b242c047815746518acbf0752f3d28cf",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@c8c455eaffaf47cfb75b7b02db184b68": {
+            "block_id": "c8c455eaffaf47cfb75b7b02db184b68",
+            "display_name": "06:44",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@c8c455eaffaf47cfb75b7b02db184b68",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@c8c455eaffaf47cfb75b7b02db184b68",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@c8c455eaffaf47cfb75b7b02db184b68",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@edebb02c43a74389af338f1e67e4ade4": {
+            "block_id": "edebb02c43a74389af338f1e67e4ade4",
+            "display_name": "12:24",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@edebb02c43a74389af338f1e67e4ade4",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@edebb02c43a74389af338f1e67e4ade4",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@edebb02c43a74389af338f1e67e4ade4",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@f8877271cdaf43b79bc9b51e2107f18d": {
+            "block_id": "f8877271cdaf43b79bc9b51e2107f18d",
+            "display_name": "11:05",
+            "graded": false,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@f8877271cdaf43b79bc9b51e2107f18d",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@f8877271cdaf43b79bc9b51e2107f18d",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@f8877271cdaf43b79bc9b51e2107f18d",
+            "type": "video"
+        },
+        "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@fef54b8bc6574162b190a522da8574e1": {
+            "block_id": "fef54b8bc6574162b190a522da8574e1",
+            "display_name": "Video",
+            "graded": true,
+            "id": "block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@fef54b8bc6574162b190a522da8574e1",
+            "lms_web_url": "http://api.classcast.in/courses/course-v1:Anurag_Chauhan+MA1203+2018/jump_to/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@fef54b8bc6574162b190a522da8574e1",
+            "student_view_url": "http://api.classcast.in/xblock/block-v1:Anurag_Chauhan+MA1203+2018+type@video+block@fef54b8bc6574162b190a522da8574e1",
+            "type": "video"
+        }
+    },
+    "root": "block-v1:Anurag_Chauhan+MA1203+2018+type@course+block@course"
+}

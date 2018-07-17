@@ -1,7 +1,7 @@
 from rest_framework import serializers
-from .models import course
+#from .models import block
 
-class courseSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = course
-        fields = fields='__all__'
+#class blockSerializer(serializers.ModelSerializer):
+#    class Meta:
+#        model = block
+#        fields = fields='__all__'
